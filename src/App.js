@@ -16,7 +16,7 @@ export default function App() {
         </h2>
         <p className="text-xl text-gray-700 mb-8 max-w-2xl mx-auto">
           We buy mineral rights across Texas. Mason Ventures offers a streamlined, transparent process and competitive offers.
-        </p>
+        </p> 
         <button className="text-lg px-8 py-4 bg-blue-800 text-white rounded-full">
           Request an Offer
         </button>
